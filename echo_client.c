@@ -4,7 +4,7 @@
  * @note 
  * @version 0.1
  */
-
+/**/
 #include <netdb.h>
 #include <errno.h>
 #include <stddef.h>
